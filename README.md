@@ -1,6 +1,6 @@
 # sleeptrackerapp
 
-A new Flutter application.
+Sleep tracker application in Flutter framework.
 
 ## Getting Started
 
